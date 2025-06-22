@@ -119,8 +119,6 @@ Command - **streamlit run main.py**
 
 👨‍💻 **Vibhu Pratap**
 
-🔗 **GitHub:** [yourgithub](https://github.com/vibhupratap-007)
-
-🔗 **LinkedIn:** [yourlinkedin](https://www.linkedin.com/in/vibhu-pratap-v/)
+🔗 **GitHub:** [mygithub](https://github.com/vibhupratap-007)
 
 ---
