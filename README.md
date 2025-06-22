@@ -40,7 +40,7 @@ It includes:
 
 ---
 
-## 📊 Dataset
+### 📊 Dataset
 
 - **Source:** [IMDB Movie Reviews Dataset](https://ai.stanford.edu/~amaas/data/sentiment/)
 - **Size:** 50,000 movie reviews (25K training, 25K testing)
@@ -54,7 +54,7 @@ It includes:
 
 ---
 
-## 🏗 Model Architecture
+### 🏗 Model Architecture
 
 - **Embedding Layer**: Converts words into dense vector representations.
 - **Simple RNN Layer**: Captures sequential dependencies in the text.
@@ -115,7 +115,7 @@ Command - **streamlit run main.py**
 
 ---
 
-## 📌 Author
+### 📌 Author
 
 👨‍💻 **Vibhu Pratap**
 
